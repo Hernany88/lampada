@@ -1,0 +1,20 @@
+@charset 'UTF-8';
+
+body {
+   background-color: black;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img#botao {
+    width: 50px;
+    border-radius: 5px;
+}
+
+div#res {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
