@@ -7,14 +7,18 @@ body {
     text-align: center;
 }
 
+div#bot {
+    margin: auto;
+}
+
 img#botao {
     width: 50px;
     border-radius: 5px;
 }
 
-div#res {
-    width: 500px;
-    height: 500px;
+div#lampada {
     margin: auto;
 }
+
+
 
